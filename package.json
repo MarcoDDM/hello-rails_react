@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "private": true,
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.2",
+    "@hotwired/turbo-rails": "^7.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.0",
+    "react-router-dom": "^6.21.3",
+    "redux": "^5.0.1",
+    "webpack": "^5.90.0"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "webpack-dev-server": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

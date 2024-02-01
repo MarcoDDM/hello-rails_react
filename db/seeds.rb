@@ -1,0 +1,5 @@
+Greeting.create(message: 'Hello, how are you?')
+Greeting.create(message: 'Hi there!')
+Greeting.create(message: 'Greetings from our app!')
+Greeting.create(message: 'Welcome to the community!')
+Greeting.create(message: 'Hola, ¿cómo estás?')
